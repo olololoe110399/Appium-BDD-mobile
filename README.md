@@ -2,6 +2,8 @@
 
 #### This is a smoke test for an Android mobile App
 
+#### you can download apk [here](https://reddit-official-app.en.uptodown.com/android/download)
+
 Write your own script
 
 1. Write feature file : /features/yourown.feature 
@@ -22,7 +24,7 @@ Tips:
 #### What does the report look like
 
 Final Report:
-![Report-dashboard](/images/dashboard.png)
+![Report-dashboard](https://github.com/olololoe110399/Appium-BDD-mobile/blob/main/images/dashboard1.png)
 
 #### TODO
 1. Integrate to cloud test farm (ex:Amazon test farm or Sourcelabs)
@@ -36,7 +38,7 @@ Note: before you run the script, make sure you change the configure for device.
 
 #### Moreinfo
 
-* [Documentation](https://github.com/julialiuliu/Appium-BDD-python-mobile-app-testing/wiki)
-* [Issue Tracking](https://github.com/julialiuliu/Appium-BDD-python-mobile-app-testing/issues)
-* Contact me: [jiuboliu@gmail.com](jiuboliu@gmail.com)
+* [Documentation](https://github.com/olololoe110399/Appium-BDD-mobile/wiki)
+* [Issue Tracking](https://github.com/olololoe110399/Appium-BDD-mobile/issues)
+* Contact me: [duynn100198@gmail.com](duynn100198@gmail.com)
 # Appium-BDD-mobile
